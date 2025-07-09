@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meow-peach.vercel.app/sitemap.xml
